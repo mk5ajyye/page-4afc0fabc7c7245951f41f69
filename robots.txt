@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.osrdukc.cn/sitemap.xml
